@@ -4,3 +4,16 @@ body {
     text-align: center;
     background-color: black;
 }
+
+/* HEADINGS */
+.header--main {
+    font-size: 50px;
+    color: white;
+}
+
+/* LINKS */
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+}
