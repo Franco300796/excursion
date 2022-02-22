@@ -20,6 +20,7 @@ body {
 .header-sub {
     font-size: 21px;
     color: gray;
+
 }
 
 /* LINKS */
@@ -27,4 +28,9 @@ body {
 .link--cta {
     color: aquamarine;
     font-size: 16px;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
 }
